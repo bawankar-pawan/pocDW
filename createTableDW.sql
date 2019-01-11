@@ -1,4 +1,4 @@
-REATE TABLE MyTablePa2new   
+CREATE TABLE MyTablePa2new   
   (  
     mycolumnnn1 nvarchar,  
     mycolumn2 nvarchar COLLATE Frisian_100_CS_AS )  
